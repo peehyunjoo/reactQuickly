@@ -1,4 +1,4 @@
-let helloWorldReactElement = <h1>Hello world!</h1>
+let helloWorldReactElement = <h1>Hello world**</h1>
 class HelloWorld extends React.Component {
   render() {
     return <div>

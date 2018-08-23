@@ -17,5 +17,6 @@
   },
   "homepage": "https://github.com/azat-co/react-quickly#readme",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "keywords": []
 }
